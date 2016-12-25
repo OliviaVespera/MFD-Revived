@@ -8,7 +8,7 @@ RESOURCES                     STAGE {0,-2: 0} $&$ STAGE
 
 {1:"";"";"   NO STAGE SOLID FUEL                                      "}   SRB  [{0:BAR| ,10}]{0:"("0.0%")";"";"[#50ff50ff]OK"}  $&$ SYSR_SOLIDFUELSTAGEPERCENT SYSR_SOLIDFUELSTAGEMAX
 
-{1:"";"";"   NO STAGE XENON FUEL                                      "}   SRB  [{0:BAR| ,10}]{0:"("0.0%")";"";"[#50ff50ff]OK"}  $&$ LISTR_1_STAGEPERCENT LISTR_XENON_STAGEPERCENT
+{1:"";"";"   NO STAGE XENON FUEL                                      "}   SRB  [{0:BAR| ,10}]{0:"("0.0%")";"";"[#50ff50ff]OK"}  $&$ LISTR_XENON_STAGEPERCENT LISTR_XENON_STAGEPERCENT
 
    TWR  {0:0.00}/{1:0.00} $&$ TWR TWRMAX
    Stage Delta V {0:0.00} $&$ DELTAVSTAGE
